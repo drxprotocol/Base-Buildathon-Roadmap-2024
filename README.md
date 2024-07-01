@@ -18,9 +18,11 @@ We developed the integration for multiple types of wallet connections, including
 
 ### Paper Trading Competition
 
-**Social Trading with Frame integration**
+**Social Trading** 
 
 To make trading more social and interactive during the Paper Trading Competition, we implemented features such as a boost to PnL based on the PnL of users you have referred, as well as a leaderboard so users can see where they rank compared to others.
+
+**Frame integration**
 
 On top of the leaderboard and referral boost, we implemented Farcaster Frames, so that users can easily share their PNL, referral, and feedback stats to Farcaster in a fun and interactive way.  The initial Farcaster Frame shows the overall leaderboard, then any user can click “Check my Drake Rank” to see what their paper trading competition stats are.  
 
